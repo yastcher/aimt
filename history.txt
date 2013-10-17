@@ -1,0 +1,5 @@
+root@tadiant:/var/www/aimt_pro/data/ror/aimt# heroku create
+Creating limitless-basin-4218... done, stack is cedar
+http://limitless-basin-4218.herokuapp.com/ | git@heroku.com:limitless-basin-4218.git
+Git remote heroku added
+
