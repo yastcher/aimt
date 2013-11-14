@@ -9,7 +9,7 @@ end
 
 # Use sqlite3 as the database for Active Record
 group :development do
-  gem 'sqlite3', '1.3.5'
+  gem 'mysql'
 end
 
 # Use SCSS for stylesheets
